@@ -366,8 +366,19 @@ footer p {
         width: 100%;
     }
 
+    .about-stats
+    {
+        display: block;
+    }
+
+    .service-header
+    {
+        display: block;
+    }
+
     .service-detail {
         gap: 16px;
+        display: block;
     }
 
     .contact-detail {
